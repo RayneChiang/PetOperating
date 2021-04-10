@@ -1,4 +1,6 @@
 # PetOperating
+## JAVA, javaFx, Mysql
+
 
 The pet shop operation management system is a management software specially designed for pet shops. It has different designs for pet shop administrators and customers.
 
